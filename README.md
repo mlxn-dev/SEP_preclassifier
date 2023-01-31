@@ -5,9 +5,9 @@ Consiste em simular, estática e dinâmicamente, um sistema elétrico de potênc
 As simulações foram feitas nos softwares do Centro de Pesquisas de Energia Elétrica (Cepel) Anarede e Anatem, cujo resultados servem de dados de entrada dos códigos presentes nesse repositório.
 
 > ### Links
-> - Fonte dos arquivos para Anarede e Anatem (*.pwf, *.stb, *.cdu): <https://sites.google.com/site/powersystemdata/brazilian-data/brazilian-34-bus?pli=1>
-> - Arquivos histórico (*.sav), de controles (*.cdu), de máquinas (*.dat) e de contingências (*.ctg) utilizados: <https://drive.google.com/drive/folders/1xXZFHoGd8ZUQkkD2WuISXRhzVknkqyiF?usp=sharing>
-> - Arquivos de saída do Anatem (*.plt): <https://drive.google.com/drive/folders/15BRDT1TS1L3VArYRbQgFwjYP3MQA8a4s?usp=sharing>
+> - Fonte dos arquivos para Anarede e Anatem (.pwf, .stb, .cdu): <https://sites.google.com/site/powersystemdata/brazilian-data/brazilian-34-bus?pli=1>
+> - Arquivos histórico (.sav), de controles (.cdu), de máquinas (.dat) e de contingências (.ctg) utilizados: <https://drive.google.com/drive/folders/1xXZFHoGd8ZUQkkD2WuISXRhzVknkqyiF?usp=sharing>
+> - Arquivos de saída do Anatem (.plt): <https://drive.google.com/drive/folders/15BRDT1TS1L3VArYRbQgFwjYP3MQA8a4s?usp=sharing>
 > - Arquivos-fonte dos dados de entrada dos algoritmos: <https://drive.google.com/drive/folders/10JGhNuIDKOV3XFDbW5PG6gS3LQ7qPyfj?usp=sharing>
 
 
