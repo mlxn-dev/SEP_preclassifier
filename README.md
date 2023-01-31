@@ -5,6 +5,6 @@ Consiste em simular, estática e dinâmicamente, um sistema elétrico de potênc
 As simulações foram feitas nos softwares do Centro de Pesquisas de Energia Elétrica (Cepel) Anarede e Anatem, cujo resultados servem de dados de entrada dos códigos presentes nesse repositório.
 
 ### Sumário
-- pltWrapper: script de extração dos dados de plotagem das variáveis de saída do Anatem.
+- pltWrapper: script de extração dos dados de plotagem das variáveis de saída do Anatem (refeito após a conclusão do trabalho).
 ### Em Construção
 
