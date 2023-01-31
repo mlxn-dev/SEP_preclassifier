@@ -4,7 +4,7 @@ Este repositório faz parte da monografia "ANÁLISE DE ESTABILIDADE TRANSITÓRIA
 
 Consiste em simular, estática e dinâmicamente, um sistema elétrico de potência de grande porte e construir um pré-classificador com RNA e outro com SVM, com o intuito de classificar a estabilidade transitória do sistema baseando-se em dados de plotagem de variáveis no domínio do tempo.
 
-As simulações foram feitas nos softwares do Centro de Pesquisas de Energia Elétrica (Cepel) Anarede e Anatem, cujo resultados servem de dados de entrada dos códigos presentes nesse repositório.
+As simulações foram feitas nos softwares do Centro de Pesquisas de Energia Elétrica (Cepel) Anarede (https://www.cepel.br/produtos/anared-2/) e Anatem (https://see.cepel.br/manual/anatem/index.html), cujo resultados servem de dados de entrada dos códigos presentes nesse repositório.
 
 
 <p align="center">
